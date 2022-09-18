@@ -21,3 +21,5 @@ if a > 1:
         print('não')
 else:
     print('não')
+
+    print('sera que vai')
